@@ -1,0 +1,73 @@
+.add-professor-container {
+    max-width: 700px;
+    margin: 60px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border: 1px solid #d5bcbc;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.add-professor-container h2 {
+    margin-bottom: 25px;
+    font-size: 28px;
+    color: #222222;
+    text-align: center;
+    font-weight: bold;
+}
+
+.add-professor-container .ant-form-item {
+    margin-bottom: 25px;
+}
+
+.add-professor-container .ant-form-item-label {
+    font-weight: 600;
+    color: #444444;
+}
+
+.add-professor-container .ant-form-item-control-input {
+    border-color: #bbbbbb;
+    border-radius: 6px;
+}
+
+.add-professor-container .ant-form-item-control-input-content {
+    border-color: #bbbbbb;
+}
+
+.add-professor-container .ant-input {
+    height: 45px;
+    padding: 0 15px;
+    font-size: 15px;
+    border-radius: 6px;
+}
+
+.add-professor-container .ant-btn {
+    margin-top: 25px;
+    width: 100%;
+    height: 45px;
+    font-size: 18px;
+    background-color: #1d72b8;
+    border-color: #1d72b8;
+    border-radius: 6px;
+}
+
+.add-professor-container .ant-btn:hover,
+.add-professor-container .ant-btn:focus {
+    background-color: #106ba3;
+    border-color: #106ba3;
+}
+
+.add-professor-container .ant-btn-primary {
+    background-color: #1d72b8;
+    border-color: #1d72b8;
+}
+
+.add-professor-container .ant-btn-primary:hover,
+.add-professor-container .ant-btn-primary:focus {
+    background-color: #106ba3;
+    border-color: #106ba3;
+}
+
+.uppercase-input {
+    text-transform: uppercase;
+}
